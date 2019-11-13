@@ -1,0 +1,11 @@
+name:Panzer VI Ausf. B Koenigstiger
+image:unit_panzer_tiger2.png
+life:1000
+attack_base:500
+attack_infantry:500
+attack_vehicle:500
+attack_plane:0
+resistance:250
+range:5
+movement:4
+

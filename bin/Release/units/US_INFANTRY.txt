@@ -1,0 +1,8 @@
+name:American infantry
+image:unit_us_thompson.png
+life:50
+attack:25
+resistance:0
+range:3
+movement:2
+

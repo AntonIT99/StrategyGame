@@ -1,0 +1,8 @@
+name:Wehrmacht infantry
+image:unit_wehrmacht_mp40.png
+life:50
+attack:25
+resistance:0
+range:3
+movement:2
+

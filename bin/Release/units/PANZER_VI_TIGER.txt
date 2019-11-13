@@ -1,0 +1,8 @@
+name:Panzer VI Ausf. B Koenigtiger
+image:unit_panzer_tiger2.png
+life:1000
+attack:500
+resistance:250
+range:5
+movement:4
+

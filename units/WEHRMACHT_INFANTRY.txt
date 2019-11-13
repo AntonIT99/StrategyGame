@@ -1,0 +1,11 @@
+name:Wehrmacht infantry
+image:unit_wehrmacht_mp40.png
+life:50
+attack_base:25
+attack_infantry:25
+attack_vehicle:25
+attack_plane:0
+resistance:0
+range:3
+movement:2
+

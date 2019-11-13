@@ -1,0 +1,544 @@
+# depslib dependency file v1.0
+1530188340 source:c:\users\anthony\documents\c and c++ projects\strategygame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+	"levelmenu.h"
+
+1496018407 source:c:\users\anthony\documents\c and c++ projects\strategygame\display.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1530188340 c:\users\anthony\documents\c and c++ projects\strategygame\main.h
+
+1496018407 c:\users\anthony\documents\c and c++ projects\strategygame\display.h
+
+1530205183 source:c:\users\anthony\documents\c and c++ projects\strategygame\game.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<dirent.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+	"defineunits.h"
+	"levelmenu.h"
+
+1496020297 source:c:\users\anthony\documents\c and c++ projects\strategygame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1495925290 source:c:\users\anthony\documents\c and c++ projects\strategygame\locate.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<string.h>
+	<math.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1495822151 c:\users\anthony\documents\c and c++ projects\strategygame\locate.h
+
+1530189967 c:\users\anthony\documents\c and c++ projects\strategygame\game.h
+	"display.h"
+	"locate.h"
+
+1530190976 source:c:\users\anthony\documents\c and c++ projects\strategygame\defineunits.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<string.h>
+	<dirent.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1496021482 c:\users\anthony\documents\c and c++ projects\strategygame\defineunits.h
+
+1530185084 source:c:\users\anthony\documents\c and c++ projects\strategygame\levelmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<dirent.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+	"levelmenu.h"
+
+1495920856 c:\users\anthony\documents\c and c++ projects\strategygame\levelmenu.h
+
+1530187376 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\defineunits.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<string.h>
+	<dirent.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1530184740 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\main.h
+
+1530186367 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\game.h
+	"display.h"
+	"locate.h"
+
+1496014807 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\display.h
+
+1495818551 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\locate.h
+
+1573688626 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\display.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1573685909 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\game.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<dirent.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+	"defineunits.h"
+	"levelmenu.h"
+
+1496017882 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\defineunits.h
+
+1495917256 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\levelmenu.h
+
+1530181484 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\levelmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	<dirent.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+	"levelmenu.h"
+
+1495921690 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\locate.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<string.h>
+	<math.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1530184740 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+	"levelmenu.h"
+
+1496016697 source:c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string.h>
+	"main.h"
+	"game.h"
+	"display.h"
+	"locate.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\begin_code.h
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\close_code.h
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801791 c:\users\alpha\onedrive\dokumente\c & c++ projects\strategygame\library\compiler\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
